@@ -1,1 +1,1 @@
-# Stone-Paper-Scissors-C--Console-Game
+# Stone-Paper-Scissors-CPP-Console-Game
