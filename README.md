@@ -14,8 +14,6 @@ This project was built as a hands-on exercise in structuring a small C++ program
 - [Design Overview](#-design-overview)
 - [Getting Started](#-getting-started)
 - [How to Play](#-how-to-play)
-- [Possible Improvements](#-possible-improvements)
-- [License](#-license)
 
 ---
 
